@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        Hi there, I am
-        Prateek
+        John Doe
         A full stack developer
       </header>
     </div>
