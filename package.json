@@ -1,9 +1,8 @@
 {
   "name": "my-portfolio",
-  "homepage": "http://prateekspk.github.io/my-portfolio",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
@@ -11,6 +10,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "typewriter-effect": "^2.17.0",
     "web-vitals": "^1.1.1"
   },
   "scripts": {
